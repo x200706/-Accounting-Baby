@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/accountingBaby/app/src/main/res/drawable-v24/button2.xml" value="0.17" />
+        <entry key="..\:/AndroidStudioProjects/accountingBaby/app/src/main/res/drawable/bg.xml" value="0.1575" />
+        <entry key="..\:/AndroidStudioProjects/accountingBaby/app/src/main/res/drawable/block.xml" value="0.1575" />
+        <entry key="..\:/AndroidStudioProjects/accountingBaby/app/src/main/res/drawable/block2.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/accountingBaby/app/src/main/res/drawable/button1.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/accountingBaby/app/src/main/res/drawable/button2.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/accountingBaby/app/src/main/res/drawable/button3.xml" value="0.1075" />
+        <entry key="..\:/AndroidStudioProjects/accountingBaby/app/src/main/res/drawable/button_gary.xml" value="0.13333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/accountingBaby/app/src/main/res/drawable/cost.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/accountingBaby/app/src/main/res/drawable/earn.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/accountingBaby/app/src/main/res/layout/activity_additem.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/accountingBaby/app/src/main/res/layout/activity_analysis.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/accountingBaby/app/src/main/res/layout/activity_edititem.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/accountingBaby/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidStudioProjects/accountingBaby/app/src/main/res/layout/cost_row.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/accountingBaby/app/src/main/res/layout/earn_row.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
